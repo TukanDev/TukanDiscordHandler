@@ -1,0 +1,18 @@
+{
+  "general": {
+    "noPerm0": "You need ",
+    "noPerm1": " permission(s) to execute this command!",
+    "wrongUsage": "Wrong usage!\n",
+    "errorTitle": "Error"
+  },
+  "help": {
+    "title": "Help",
+    "mainDescription": "General help about ",
+    "categoryTitleSuffix": " commands",
+    "categoryNoPerm": "You do not have enough permissions to use that category!",
+    "categoryInvalidInteraction": "Invalid category!\n Check `/help` for list of categories you can access.",
+    "categoryInvalidMessage0": "Invalid category!\n Check ",
+    "categoryInvalidMessage1": " for list of categories you can access.",
+    "helpMenu0": "List of "
+  }
+}
