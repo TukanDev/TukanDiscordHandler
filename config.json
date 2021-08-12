@@ -1,0 +1,31 @@
+{
+  "general": {
+    "owner": "290120467417661440",
+    "commandType": "interaction",
+    "prefix": "=",
+    "activity": {
+      "type": "WATCHING",
+      "status": "online",
+      "mobileStatus": false,
+      "mobileDevice": "Discord iOS",
+      "activities": ["Step Aether!", "/help"]
+    }
+  },
+  "categories": {
+    "category": ["mod", "admin", "info", "fun","dev"],
+    "emoji": {
+      "mod": "«︎\uD83D\uDD28» ",
+      "admin": "«︎⚜️» ",
+      "dev": "«︎<:verifiedDeveloper:874424931100811264>» ",
+      "info": "«︎:information_source:» ",
+      "fun": "«\uD83D\uDE06»"
+    }
+  },
+  "embed": {
+    "footer": "Example footer",
+    "color": {
+      "success": "#20d60d",
+      "error": "#d81d1d"
+    }
+  }
+}

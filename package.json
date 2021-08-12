@@ -1,0 +1,20 @@
+{
+  "name": "testbot-but-djs13",
+  "version": "1.0.0",
+  "description": "stepbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "StepTukan",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.0.0",
+    "dotenv": "^10.0.0",
+    "signale": "^1.4.0"
+  }
+}
