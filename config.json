@@ -1,6 +1,6 @@
 {
   "general": {
-    "owner": "290120467417661440",
+    "owner": "<bot owner id>",
     "commandType": "interaction",
     "prefix": "=",
     "activity": {
@@ -8,7 +8,7 @@
       "status": "online",
       "mobileStatus": false,
       "mobileDevice": "Discord iOS",
-      "activities": ["Step Aether!", "/help"]
+      "activities": ["playing1", "/help"]
     }
   },
   "categories": {
